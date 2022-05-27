@@ -1,0 +1,13 @@
+segment_sources:
+  I5F5153F5:
+    type: origin_type
+    relation: translation
+    language: sa
+  IC7C4CEBC:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  cb7bc690206e44aa9bebe9cf2e674dc8:
+    I5F5153F5: 92378e39f5224999b070bba68ab69958
+    IC7C4CEBC: 885eec5c5aa849258d010eaaa1ef0efb

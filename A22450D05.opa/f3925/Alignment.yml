@@ -1,0 +1,31 @@
+segment_sources:
+  I5F5153F5:
+    type: origin_type
+    relation: translation
+    language: sa
+  IC7C4CEBC:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  bb881b296b604032b4063d35ae437be3:
+    I5F5153F5: cc4c1f88027f47a29510ab543f6c35ac
+    IC7C4CEBC: 0a745d82cb414e3f80718afe15c0222b
+  c2545d53ec7d44af9128e66bbfbd6103:
+    I5F5153F5: 5bbaeae541bd43b9ba24cdbc6c6e98d4
+    IC7C4CEBC: ae1ef30821b34a1a84995b857d26e6ad
+  d5ed82f9d7be405db6219c425a8b0af6:
+    I5F5153F5: eccadc9e2b454490bd31d5b978e2c0e6
+    IC7C4CEBC: d6f9f74939fe4270a077d2c9557befbb
+  ce1b46989ae04ede950511fdfe3475f6:
+    I5F5153F5: 9038e1840c8645f7abc8a5ec87263f0f
+    IC7C4CEBC: 5c13694a9fac4f43ba97759cc7d3269c
+  a7ddc0442aad467787fb61172b11cf4c:
+    I5F5153F5: e9501aef793d4101a2f6c122a3a1783c
+    IC7C4CEBC: b94f40b7a1f6477f9fd348a034aca4a5
+  c99e2d25c33248a1b35980909ec38a9a:
+    I5F5153F5: 55e0e52114b945eab64495e46eba434e
+    IC7C4CEBC: 7314639af64d406f94451303b1892bf5
+  594d3316cff14b17b102350dc400c589:
+    I5F5153F5: 68e7a671e1bf431ba16b3c5b43199830
+    IC7C4CEBC: 21c4779f0b5b4588947d464dd7b5fe81

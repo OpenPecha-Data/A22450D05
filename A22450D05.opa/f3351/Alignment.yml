@@ -1,0 +1,19 @@
+segment_sources:
+  I5F5153F5:
+    type: origin_type
+    relation: translation
+    language: sa
+  IC7C4CEBC:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  88b58e36b9454f9f9691c634c95bee2b:
+    I5F5153F5: 8bf951e3f6eb4083a9f81e9f5d4a7271
+    IC7C4CEBC: 96057053fc27487e892379490ebcc5d8
+  988dde6cb7ed4914833589098fa6d833:
+    I5F5153F5: 07bd1888e53146a5b90dfd0dc229caa4
+    IC7C4CEBC: 811c2b252d30410bb159a38f1c28c5f0
+  cf5eeeea9669437cb6b2d898d2295683:
+    I5F5153F5: 6a3551b723964c67ab1d2d9eed5cd45a
+    IC7C4CEBC: fc91c275da5646a2aaf6c30f8b257f79
